@@ -16,7 +16,7 @@ Create hilarious memes with this easy-to-use React app!
 
 ## Links
 
-- [Deployed Site](https://tenzi-game.netlify.app/)
+- [Deployed Site](https://memegen-bydainelli.netlify.app)
 
 ## What was done
 
